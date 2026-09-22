@@ -1,0 +1,8 @@
+path: C:/Users/homsokhim/PycharmProjects/Health_analysis/data/stenosis_yolo
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: stenosis
